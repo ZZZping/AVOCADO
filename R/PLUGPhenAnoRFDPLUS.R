@@ -58,7 +58,7 @@
 #' plot(ts.inter, ylim=c(-2000,8000))
 #' #=========================================================================
 #' @export
-PLUGPhenAnoRFDPlus <-
+PLUGPhenAnoRFDPLUS <-
   function(x, phen, dates, h, anop, rge) {
     # a.Preparing dataset
     
